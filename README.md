@@ -1,5 +1,7 @@
 # DropImpact_viscoplastic_epsilonformulation
 
+This repo has moved to [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
+
 This project contains C implementations for simulating two-phase flows, such as bouncing drops.
 
 ## Files in the Project
